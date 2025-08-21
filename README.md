@@ -14,9 +14,9 @@ It showcases different internship opportunities with clean design, hover effects
 
 ---
 
-## 📸 Preview  
-<img width="1470" height="881" alt="Screenshot 2025-08-22 at 12 30 19 AM" src="https://github.com/user-attachments/assets/25766b6c-cddf-4bb5-9a05-bef0a8319ad7" />
-<img width="1470" height="881" alt="Screenshot 2025-08-22 at 12 30 33 AM" src="https://github.com/user-attachments/assets/94d5561c-deef-4c83-bab9-6ddb624dc081" />
+## 📸 Preview
+<img width="1470" height="880" alt="Screenshot 2025-08-22 at 12 34 45 AM" src="https://github.com/user-attachments/assets/90740288-e5f8-44a0-a15b-4c5dc4f29814" />
+<img width="1470" height="880" alt="Screenshot 2025-08-22 at 12 34 55 AM" src="https://github.com/user-attachments/assets/58032c16-f0f1-4fd9-b219-aa8f842759e4" />
 
 
 A clean and attractive **Internship Page** with internship cards:  
